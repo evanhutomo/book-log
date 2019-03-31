@@ -1,2 +1,8 @@
 # book-log
-Personal book log for keeping track reading habits :books:
+読書習慣するため個人的な本ローグを使用。:books:
+
+## 目次
+- 和書
+  - 安心セラピー
+- 洋書
+- インドネシア書
